@@ -6,7 +6,8 @@ In this week, we will be looking at one of the bugs in week 4's lab and research
 
 We will be analyzing this code
 
-```public class StrangeMethod {
+```
+    public class StrangeMethod {
     //finds odd numbers and averages them
     public static double oddAverage(int[] arr) {
         double sum = 0;
@@ -18,6 +19,6 @@ We will be analyzing this code
         return sum/ ( (double) arr.length);
       }
     
-}```
+    }```
 
 
